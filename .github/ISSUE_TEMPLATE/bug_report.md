@@ -8,21 +8,21 @@ assignees: ''
 ---
 
 **Software**
-Where the bug was found.
+The bug was found in PUBGMobile Application.
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+The bug is that a person when closes a door in the game and if anyone is standing in the way of the door, the door will pass through the character.
 
 **Steps To Reproduce**
-Step-by-step instructions that allow others to reproduce the
-bug.
+1. Open PUBG Mobile and enter in a battle royal match.
+2. When you enter the match and start playing just find a house with a door.
+3. Now open a door and stand in the way of the door being shut the door will pass through the character and your character will go pass the door.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+
 
 **Device**
-  details what operating
-system/browser/mobile phone you were using.
+I was operating it on my smartphone Iphone 7+.
 
-**Additional context**
-Add any other context about the problem here.
+**Severity**
+This bug has a high severity and happens to almost all the users.
