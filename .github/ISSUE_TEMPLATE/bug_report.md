@@ -25,7 +25,3 @@ what operating system/browser/mobile phone you were using.
 **Severity**
 Assign a severity label to the github issue with a value of either, high,
 medium or low.
-
-
-
-
